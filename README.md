@@ -2,4 +2,4 @@
 
 Тестовый сайт для проверки github pages
 
-[buryi.site](buryi.site)
+[buryi.site](https://buryi.site/)
